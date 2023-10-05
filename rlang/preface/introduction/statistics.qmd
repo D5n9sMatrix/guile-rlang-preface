@@ -1,0 +1,13 @@
+---
+title: "1.3 R and statistics"
+author: "Admin"
+format: html
+---
+
+### 1.3 R and statistics
+
+Our introduction to the R environment did not mention *statistics*, yet many people use R as a statistics system. We prefer to think of it of an environment within which many classical and modern statistical techniques have been implemented. A few of these are built into the base R environment, but many are supplied as *packages*. There are about 25 packages supplied with R (called "standard" and "recommended" packages) and many more are available through the CRAN family of Internet sites (via [https://CRAN.R-project.org](https://cran.r-project.org/)) and elsewhere. More details on packages are given later (see [Packages](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Packages)).
+
+Most classical statistics and much of the latest methodology is available for use with R, but users may need to be prepared to do a little work to find it.
+
+There is an important difference in philosophy between S (and hence R) and the other main statistical systems. In S a statistical analysis is normally done as a series of steps, with intermediate results being stored in objects. Thus whereas SAS and SPSS will give copious output from a regression or discriminant analysis, R will give minimal output and store the results in a fit object for subsequent interrogation by further R functions.

@@ -1,0 +1,29 @@
+---
+title: "1 Introduction and preliminaries"
+author: "Admin"
+format: html
+---
+
+## 1 Introduction and preliminaries
+
+-   [The R environment](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#The-R-environment)
+
+-   [Related software and documentation](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Related-software-and-documentation)
+
+-   [R and statistics](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#R-and-statistics)
+
+-   [R and the window system](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#R-and-the-window-system)
+
+-   [Using R interactively](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Using-R-interactively)
+
+-   [An introductory session](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#An-introductory-session)
+
+-   [Getting help with functions and features](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Getting-help)
+
+-   [R commands, case sensitivity, etc.](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#R-commands_003b-case-sensitivity-etc)
+
+-   [Recall and correction of previous commands](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Recall-and-correction-of-previous-commands)
+
+-   [Executing commands from or diverting output to a file](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Executing-commands-from-or-diverting-output-to-a-file)
+
+-   [Data permanency and removing object](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-permanency-and-removing-objects)
